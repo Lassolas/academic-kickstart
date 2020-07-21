@@ -13,7 +13,7 @@ role: PhD in Robotics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Sorbonne University, Institute of Intelligent Systems and Robotics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
