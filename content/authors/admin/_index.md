@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
-
+title: Valentin MARCEL
 # Username (this should match the folder name)
 authors:
 - admin
@@ -10,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD in Robotics
 
 # Organizations/Affiliations
 organizations:
