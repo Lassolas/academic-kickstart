@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in Robotics
+role: PhD in Robotics and AI
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: Qualification to become an Associate Teacher (Maître de Conference) in Computer Science, Automatics and Signal Processing  
+  - course: Qualification (Maître de Conference) in Computer Science, Automatics and Signal Processing  
     year: 2021
   - course: PhD in Artificial Intelligence
     institution: Sorbonne University, Paris
@@ -72,4 +72,3 @@ user_groups:
 ---
 My research interests are focused on understanding and theorize the process of perception, from the psycophysical laws of human perception to the emergence of perceptual concepts in naïve artificial agents. More precisely in my recent research, which is anchored in the context of developmental robotics, the agents are considered as naive.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
