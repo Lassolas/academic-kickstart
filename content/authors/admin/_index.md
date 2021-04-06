@@ -17,7 +17,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are focused on understanding and theorize the process of perception, from the psycophysical laws of human perception to the emergence of perceptual concepts in naïve artificial agents. More precisely in my recent research, which is anchored in the context of developmental robotics, the agents are considered as naive. 
 
 interests:
 - Artificial Intelligence
