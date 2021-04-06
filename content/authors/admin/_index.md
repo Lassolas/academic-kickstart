@@ -24,8 +24,9 @@ interests:
 - Cognitive Development
 - Applied Mathematics for Machine Learning
 
+# Education to show in About widget
 education:
-  courses
+  courses:
   - course: PhD in Artificial Intelligence
     institution: Sorbonne University, Paris
     year: 2020
