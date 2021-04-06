@@ -21,20 +21,22 @@ bio: My research interests are focused on understanding and theorize the process
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cognitive Development
+- Applied Mathematics for Machine Learning
 
 education:
   courses:
+  - course: Qualification to become an Associate Teacher (Maître de Conference) in Computer Science, Automatics and Signal Processing  
+    year: 2021
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Sorbonne University, Paris
+    year: 2020
+  - course: Msc in Applied Mathematics and Computer Science
+    institution: Ecole Normale Superieur de Cachan
+    year: 2015
+  - course: Msc in Higher Education Teaching in Applied Physics
+    institution: Ecole Normale Superieur de Cachan
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
