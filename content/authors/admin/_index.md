@@ -25,9 +25,6 @@ interests:
 - Applied Mathematics for Machine Learning
 
 education:
-  courses:
-  - course: Qualification (Maître de Conference) in Computer Science, Automatics and Signal Processing  
-    year: 2021
   - course: PhD in Artificial Intelligence
     institution: Sorbonne University, Paris
     year: 2020
