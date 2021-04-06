@@ -25,6 +25,7 @@ interests:
 - Applied Mathematics for Machine Learning
 
 education:
+- courses
   - course: PhD in Artificial Intelligence
     institution: Sorbonne University, Paris
     year: 2020
